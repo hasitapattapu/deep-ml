@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**5** solved · 4 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-01 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-01 | [solution](problems/1102-select-specific-columns) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-01 | [solution](problems/1104-sort-results-with-order-by) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-02 | [solution](math/0018-descriptive-statistics) |
 
 ---
 
