@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 9 problems · 0 labs · 2 math
+**12** solved · 10 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Average per group](https://www.deep-ml.com/problems/1108) | easy | 2026-10-04 | [solution](problems/1108-average-per-group) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-04 | [solution](problems/1107-count-rows-per-group) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-01 | [solution](problems/1103-filter-rows-with-where) |
+| [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-10-05 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-10-02 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-01 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-01 | [solution](problems/1102-select-specific-columns) |
