@@ -20,7 +20,7 @@ def solution(df):
         if pd.api.types.is_numeric_dtype(df[col]):
             df[col] = df[col].fillna(df[col].mean())
         else:
-            df[col] = df[col].fillna(df[col].mode().iloc[0])
+            df[col] = df[col].fillna(df[col].mode()[0])
 
     # Step 4: Reset index
     df = df.reset_index(drop=True)
