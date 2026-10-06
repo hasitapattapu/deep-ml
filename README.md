@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 10 problems · 0 labs · 2 math
+**13** solved · 11 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -22,6 +22,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-04 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-01 | [solution](problems/1104-sort-results-with-order-by) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-02 | [solution](problems/1106-top-n-with-limit) |
+| [Your first JOIN](https://www.deep-ml.com/problems/1109) | easy | 2026-10-06 | [solution](problems/1109-your-first-join) |
 
 ## Math
 
