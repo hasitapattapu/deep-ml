@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:45:07.355Z",
+  "generated_at": "2026-10-09T17:59:08.983Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -189,6 +189,17 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-10-09T17:45:06.563Z",
       "last_pushed_at": "2026-10-09T17:45:06.563Z"
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-10-09T17:59:08.356Z",
+      "last_pushed_at": "2026-10-09T17:59:08.356Z"
     }
   }
 }
