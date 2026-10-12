@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:07:29.934Z",
+  "generated_at": "2026-10-12T16:47:59.249Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -211,6 +211,17 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-10-09T18:07:26.711Z",
       "last_pushed_at": "2026-10-09T18:07:26.711Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-10-12T16:47:58.290Z",
+      "last_pushed_at": "2026-10-12T16:47:58.290Z"
     }
   }
 }
