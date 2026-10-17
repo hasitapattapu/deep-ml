@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:00:53.271Z",
+  "generated_at": "2026-10-17T18:03:24.791Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -255,6 +255,17 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-10-16T18:00:51.898Z",
       "last_pushed_at": "2026-10-16T18:00:51.898Z"
+    },
+    "math:7": {
+      "kind": "math",
+      "id": "7",
+      "title": "Vector Operations",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/7",
+      "path": "math/0007-vector-operations",
+      "first_solved_at": "2026-10-17T18:03:23.709Z",
+      "last_pushed_at": "2026-10-17T18:03:23.709Z"
     }
   }
 }
