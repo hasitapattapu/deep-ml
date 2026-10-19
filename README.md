@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**25** solved · 13 problems · 0 labs · 12 math
+**26** solved · 13 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Bytes in the KV Cache (MHA, GQA, MQA, MLA)](https://www.deep-ml.com/math-problems/62) | easy | 2026-10-19 | [solution](math/0062-bytes-in-the-kv-cache-mha-gqa-mqa-mla) |
 | [Class Imbalance and Proper Scoring](https://www.deep-ml.com/math-problems/44) | easy | 2026-10-14 | [solution](math/0044-class-imbalance-and-proper-scoring) |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-09 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-02 | [solution](math/0018-descriptive-statistics) |
