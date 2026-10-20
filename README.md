@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 13 problems · 0 labs · 14 math
+**28** solved · 13 problems · 0 labs · 15 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Arithmetic Intensity of Matmul vs Decode Attention](https://www.deep-ml.com/math-problems/63) | medium | 2026-10-19 | [solution](math/0063-arithmetic-intensity-of-matmul-vs-decode-attention) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-18 | [solution](math/0012-inverse-and-rank) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-09 | [solution](math/0010-matrix-multiplication) |
+| [Roofline: Time is the Max of Bytes/BW and FLOPs/Peak](https://www.deep-ml.com/math-problems/64) | medium | 2026-10-20 | [solution](math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-17 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-10-16 | [solution](math/0025-kl-divergence) |
 
