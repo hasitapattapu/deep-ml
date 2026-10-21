@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T17:37:37.637Z",
+  "generated_at": "2026-10-21T14:29:50.154Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -334,6 +334,17 @@
       "path": "math/0064-roofline-time-is-the-max-of-bytes-bw-and-flops-peak",
       "first_solved_at": "2026-10-20T17:37:36.662Z",
       "last_pushed_at": "2026-10-20T17:37:36.662Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-10-21T14:29:50.108Z",
+      "last_pushed_at": "2026-10-21T14:29:50.108Z"
     }
   }
 }
