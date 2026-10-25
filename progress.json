@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T14:29:50.154Z",
+  "generated_at": "2026-10-25T18:29:55.490Z",
   "items": {
     "problem:1101": {
       "kind": "problem",
@@ -345,6 +345,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-21T14:29:50.108Z",
       "last_pushed_at": "2026-10-21T14:29:50.108Z"
+    },
+    "math:67": {
+      "kind": "math",
+      "id": "67",
+      "title": "PagedAttention Internal Fragmentation",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/67",
+      "path": "math/0067-pagedattention-internal-fragmentation",
+      "first_solved_at": "2026-10-25T18:29:57.605Z",
+      "last_pushed_at": "2026-10-25T18:29:57.605Z"
     }
   }
 }
